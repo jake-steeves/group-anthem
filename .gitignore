@@ -1,0 +1,7 @@
+# Ignore dependencies
+
+chats/
+media/
+outdir/
+venv/
+deactivate/
